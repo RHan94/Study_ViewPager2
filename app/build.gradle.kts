@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "tw.edu.ccu.cs.xuhan.study_viewpager2"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "tw.edu.ccu.cs.xuhan.study_viewpager2"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
