@@ -6,14 +6,14 @@
     android:orientation="vertical">
 
     <TextView
-        android:layout_margin="64sp"
         android:id="@+id/titleTV"
-        android:text="Test"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="32sp"
+        android:layout_marginHorizontal="64sp"
+        android:layout_marginVertical="8sp"
+        android:text="Test"
         android:textAlignment="center"
-        />
+        android:textSize="32sp" />
 
     <androidx.cardview.widget.CardView
         android:layout_width="389dp"
